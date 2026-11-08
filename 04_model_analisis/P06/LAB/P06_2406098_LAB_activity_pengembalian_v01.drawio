@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="guDFURqgoCiNIHR24tCj" name="Activity Diagram Pengembalian">
-        <mxGraphModel dx="569" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1436" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="20rj9HYR8YO4nlvB2aOP-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=25;horizontal=0;horizontalFlip=1;" value="Activity Diagram Pengembalian" vertex="1">
+                <mxCell id="20rj9HYR8YO4nlvB2aOP-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=25;horizontal=0;horizontalFlip=1;" value="" vertex="1">
                     <mxGeometry height="960" width="725" x="40" y="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="20rj9HYR8YO4nlvB2aOP-2" parent="20rj9HYR8YO4nlvB2aOP-1" style="swimlane;html=1;startSize=30;align=center;" value="Mahasiswa" vertex="1">
