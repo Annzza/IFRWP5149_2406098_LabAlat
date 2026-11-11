@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="12">
     <diagram id="cewrOdGxbGRLCROqE7-W" name="LAB-UC03 Ajukan Peminjaman">
-        <mxGraphModel dx="1084" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1340" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -284,7 +284,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="LAB-UC01 Lihat Ketersediaan Peralatan" id="2yNHSjke_88A14WjPzdE">
-        <mxGraphModel dx="672" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="804" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>

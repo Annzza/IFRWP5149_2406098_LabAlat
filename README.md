@@ -19,7 +19,7 @@ Kelas   : Informatika C
 
 - ⚡ Fun fact **Debugging is just another way of learning.**
 
-- 📫 Pertemuan3 **Pertemuan 6 ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS**
+- 📫 Pertemuan3 **Pertemuan 7 Assesment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
